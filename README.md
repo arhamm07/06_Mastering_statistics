@@ -98,6 +98,6 @@ Your contributions will help make this resource even more valuable for the commu
 
 For any questions, suggestions, or feedback, feel free to reach out:
 
-- **Author:** Arham M.
+- **Author:** M Arham Rafique.
 - **Email:** [![Gmail](https://img.shields.io/badge/-arham7813@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:arham7813@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Arham%20Rafique-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arhamrafique007)
